@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1049655503938",
+    "firebase_url": "https://cryptofolio-f4d85.firebaseio.com",
+    "project_id": "cryptofolio-f4d85",
+    "storage_bucket": "cryptofolio-f4d85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049655503938:android:3a355ef88367b5a4",
+        "android_client_info": {
+          "package_name": "com.higglerslab.cryptofolio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049655503938-mi4ej52si25fl3coo69s62342udtgcot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgWr6HteuBafgviEDybTYuXmG8KTh2Yfc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
